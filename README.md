@@ -13,3 +13,5 @@ npm i
 npm run build
 
 ```
+## License
+MIT License see [https://github.com/xsTao/tuyunlvpai/blob/master/LICENSE](License)
